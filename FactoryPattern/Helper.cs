@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
+    /// <summary>
+    /// 取消
+    /// </summary>
     internal class Helper
     {
     }
