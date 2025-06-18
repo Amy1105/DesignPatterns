@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace FactoryPattern
 {
     /// <summary>
-    /// 取消44
+    /// 取消7787888
     /// </summary>
     internal class Helper
     {
